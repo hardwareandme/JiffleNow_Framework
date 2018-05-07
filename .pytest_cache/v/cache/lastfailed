@@ -1,0 +1,6 @@
+{
+  "tests/login/test_login.py::loginTests::test_invalidLogin": true,
+  "tests/login/test_login.py::loginTests::test_validLogin": true,
+  "tests/settings/test_settings.py::settingsTest::test": true,
+  "tests/settings/test_settings.py::settingsTest::test_24hFormat": true
+}

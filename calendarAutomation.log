@@ -1,0 +1,663 @@
+04/27/2018 12:32:10 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 12:32:10 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 12:32:10 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 12:32:10 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 12:32:10 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 12:32:11 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 12:32:11 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 12:32:11 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 12:43:12 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 12:43:12 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 12:43:12 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 12:43:12 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 12:43:13 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 12:43:13 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 12:43:13 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 12:43:13 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 12:43:22 PM - loginPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 12:43:22 PM - loginPage - INFO: Element Found
+04/27/2018 01:11:02 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 01:11:03 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 01:11:03 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 01:11:03 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 01:11:03 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:11:04 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:11:04 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:11:04 PM - loginPage - INFO: Cannot click on the element with locator: passwordNext locatorType: id
+04/27/2018 01:11:09 PM - loginPage - INFO: Element not found with locator: //div[contains(text(),'Wrong password.')] and  locatorType: xpath
+04/27/2018 01:11:09 PM - loginPage - INFO: Element not found
+04/27/2018 01:11:14 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 01:11:14 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 01:11:19 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 01:11:19 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 01:11:19 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:11:19 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:11:19 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:11:19 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 01:11:25 PM - loginPage - INFO: Element not found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 01:11:25 PM - loginPage - INFO: Element not found
+04/27/2018 01:13:36 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 01:13:36 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 01:13:36 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 01:13:36 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 01:13:36 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:13:37 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:13:37 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:13:37 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 01:13:47 PM - loginPage - INFO: Element Found with locator: //div[contains(text(),'Wrong password.')] and  locatorType: xpath
+04/27/2018 01:13:47 PM - loginPage - INFO: Element Found
+04/27/2018 01:13:52 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 01:13:52 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 01:13:57 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 01:13:57 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 01:13:57 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:13:57 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:13:57 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:13:58 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 01:14:05 PM - loginPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 01:14:05 PM - loginPage - INFO: Element Found
+04/27/2018 01:14:29 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 01:14:29 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 01:14:29 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 01:14:29 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 01:14:30 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:14:30 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:14:30 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:14:30 PM - loginPage - INFO: Cannot click on the element with locator: passwordNext locatorType: id
+04/27/2018 01:14:35 PM - loginPage - INFO: Element not found with locator: //div[contains(text(),'Wrong password.')] and  locatorType: xpath
+04/27/2018 01:14:35 PM - loginPage - INFO: Element not found
+04/27/2018 01:14:40 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 01:14:40 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 01:14:45 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 01:14:45 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 01:14:45 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:14:46 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:14:46 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:14:46 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 01:14:51 PM - loginPage - INFO: Element not found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 01:14:51 PM - loginPage - INFO: Element not found
+04/27/2018 01:15:29 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 01:15:30 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 01:15:30 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 01:15:30 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 01:15:30 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:15:31 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:15:31 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:15:31 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 01:15:36 PM - loginPage - INFO: Element Found with locator: //div[contains(text(),'Wrong password.')] and  locatorType: xpath
+04/27/2018 01:15:36 PM - loginPage - INFO: Element Found
+04/27/2018 01:15:41 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 01:15:41 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 01:15:46 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 01:15:46 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 01:15:46 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:15:46 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:15:46 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:15:46 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 01:15:52 PM - loginPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 01:15:52 PM - loginPage - INFO: Element Found
+04/27/2018 01:53:04 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 01:53:04 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 01:53:04 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 01:53:04 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 01:53:05 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:53:05 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:53:05 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:53:05 PM - loginPage - INFO: Cannot click on the element with locator: passwordNext locatorType: id
+04/27/2018 01:53:15 PM - loginPage - INFO: Element not found with locator: //div[contains(text(),'Wrong password.')] and  locatorType: xpath
+04/27/2018 01:53:15 PM - loginPage - INFO: Element not found
+04/27/2018 01:53:21 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 01:53:21 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 01:53:26 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 01:53:26 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 01:53:26 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:53:26 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:53:26 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:53:26 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 01:53:31 PM - loginPage - INFO: Element not found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 01:53:31 PM - loginPage - INFO: Element not found
+04/27/2018 01:54:41 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 01:54:41 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 01:54:41 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 01:54:41 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 01:54:42 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:54:43 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:54:48 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:54:48 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 01:54:53 PM - loginPage - INFO: Element Found with locator: //div[contains(text(),'Wrong password.')] and  locatorType: xpath
+04/27/2018 01:54:53 PM - loginPage - INFO: Element Found
+04/27/2018 01:54:58 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 01:54:58 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 01:55:03 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 01:55:03 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 01:55:03 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 01:55:03 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 01:55:08 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 01:55:08 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 01:55:16 PM - loginPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 01:55:16 PM - loginPage - INFO: Element Found
+04/27/2018 02:07:14 PM - loginPage - INFO: Element found with locator: identifierId and  locatorType: id
+04/27/2018 02:07:15 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 02:07:15 PM - loginPage - INFO: Element found with locator: identifierNext and  locatorType: id
+04/27/2018 02:07:15 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 02:07:15 PM - loginPage - INFO: Element found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 02:07:15 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 02:07:21 PM - loginPage - INFO: Element found with locator: passwordNext and  locatorType: id
+04/27/2018 02:07:21 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 02:07:26 PM - loginPage - INFO: Element found with locator: //div[contains(text(),'Wrong password.')] and  locatorType: xpath
+04/27/2018 02:07:26 PM - loginPage - INFO: Element present with locator: //div[contains(text(),'Wrong password.')] locatorType: xpath
+04/27/2018 02:07:31 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 02:07:31 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 02:07:36 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 02:07:36 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 02:07:36 PM - loginPage - INFO: Element found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 02:07:36 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 02:07:41 PM - loginPage - INFO: Element found with locator: passwordNext and  locatorType: id
+04/27/2018 02:07:41 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 02:07:49 PM - loginPage - INFO: Element found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 02:07:49 PM - loginPage - INFO: Element present with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span locatorType: xpath
+04/27/2018 02:09:27 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 02:09:27 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 02:09:27 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 02:09:27 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 02:09:28 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 02:09:29 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 02:09:34 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 02:09:34 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 02:09:39 PM - loginPage - INFO: Element Found with locator: //div[contains(text(),'Wrong password.')] and  locatorType: xpath
+04/27/2018 02:09:39 PM - loginPage - INFO: Element Found
+04/27/2018 02:09:44 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 02:09:44 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 02:09:49 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 02:09:49 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 02:09:49 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 02:09:49 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 02:09:54 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 02:09:54 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 02:10:02 PM - loginPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 02:10:02 PM - loginPage - INFO: Element Found
+04/27/2018 02:53:32 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 02:53:32 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 02:53:32 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 02:53:32 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 02:53:33 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 02:53:33 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 02:53:38 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 02:53:38 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 02:53:43 PM - loginPage - INFO: Element Found with locator: //div[contains(text(),'Wrong password.')] and  locatorType: xpath
+04/27/2018 02:53:43 PM - loginPage - INFO: Element Found
+04/27/2018 02:53:48 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 02:53:48 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 02:53:53 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 02:53:53 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 02:53:53 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 02:53:54 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 02:53:59 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 02:53:59 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 02:54:06 PM - loginPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 02:54:06 PM - loginPage - INFO: Element Found
+04/27/2018 03:25:00 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 03:25:00 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 03:25:00 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 03:25:01 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 03:25:01 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 03:25:01 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 03:25:07 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 03:25:07 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 03:25:21 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 03:25:21 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 03:25:26 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 03:25:26 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 03:25:31 PM - loginPage - INFO: Element not found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 03:25:31 PM - loginPage - INFO: Cannot send data on the element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 03:25:40 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 03:25:40 PM - loginPage - INFO: Cannot click on the element with locator: passwordNext locatorType: id
+04/27/2018 03:25:45 PM - loginPage - INFO: Element not found with locator: //div[contains(text(),'Wrong password.')] and  locatorType: xpath
+04/27/2018 03:25:45 PM - loginPage - INFO: Element not found
+04/27/2018 03:25:46 PM - loginPage - INFO: Element not found with locator: identifierId and  locatorType: id
+04/27/2018 03:25:46 PM - loginPage - INFO: Cannot send data on the element with locator: identifierId locatorType: id
+04/27/2018 03:25:46 PM - loginPage - INFO: Element not found with locator: identifierNext and  locatorType: id
+04/27/2018 03:25:46 PM - loginPage - INFO: Cannot click on the element with locator: identifierNext locatorType: id
+04/27/2018 03:25:46 PM - loginPage - INFO: Element not found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 03:25:46 PM - loginPage - INFO: Cannot send data on the element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 03:25:51 PM - loginPage - INFO: Element not found with locator: passwordNext and  locatorType: id
+04/27/2018 03:25:51 PM - loginPage - INFO: Cannot click on the element with locator: passwordNext locatorType: id
+04/27/2018 03:25:51 PM - loginPage - INFO: Element not found with locator: //header[@id='gb']/div[2]/div[3]/div/div[2]/div/a/span and  locatorType: xpath
+04/27/2018 03:25:51 PM - loginPage - INFO: Element not found
+04/27/2018 03:34:54 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 03:34:54 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 03:34:54 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 03:34:55 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 03:34:55 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 03:34:55 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 03:35:00 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 03:35:01 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 03:35:08 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 03:35:08 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 03:35:08 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 03:35:08 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 03:35:13 PM - settingsPage - INFO: Element not found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[1] and  locatorType: xpath
+04/27/2018 03:35:13 PM - settingsPage - INFO: Cannot click on the element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[1] locatorType: xpath
+04/27/2018 03:35:18 PM - settingsPage - INFO: Element not found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 03:35:18 PM - settingsPage - INFO: Cannot click on the element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 03:35:26 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 03:35:26 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 03:35:27 PM - settingsPage - INFO: Element Found with locator: xEnTiIn and  locatorType: id
+04/27/2018 03:36:05 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 03:36:05 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 03:36:05 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 03:36:06 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 03:36:06 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 03:36:06 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 03:36:11 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 03:36:12 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 03:36:18 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 03:36:19 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 03:36:22 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 03:36:22 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 03:36:23 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[1] and  locatorType: xpath
+04/27/2018 03:36:23 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[1] locatorType: xpath
+04/27/2018 03:36:23 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 03:36:24 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 03:36:27 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 03:36:27 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 03:36:27 PM - settingsPage - INFO: Element Found with locator: xEnTiIn and  locatorType: id
+04/27/2018 03:37:40 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 03:37:40 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 03:37:40 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 03:37:41 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 03:37:41 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 03:37:42 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 03:37:47 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 03:37:47 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 03:37:56 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 03:37:56 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 03:37:59 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 03:37:59 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 03:38:00 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[1] and  locatorType: xpath
+04/27/2018 03:38:00 PM - settingsPage - INFO: Cannot click on the element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[1] locatorType: xpath
+04/27/2018 03:38:05 PM - settingsPage - INFO: Element not found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 03:38:05 PM - settingsPage - INFO: Cannot click on the element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 03:38:08 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 03:38:09 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 03:38:09 PM - settingsPage - INFO: Element Found with locator: xEnTiIn and  locatorType: id
+04/27/2018 03:41:00 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 03:41:00 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 03:41:00 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 03:41:00 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 03:41:00 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 03:41:01 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 03:41:06 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 03:41:06 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 03:41:15 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 03:41:15 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 03:41:18 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 03:41:18 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 03:41:21 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[1] and  locatorType: xpath
+04/27/2018 03:41:21 PM - settingsPage - INFO: Cannot click on the element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[1] locatorType: xpath
+04/27/2018 03:41:29 PM - settingsPage - INFO: Element not found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 03:41:29 PM - settingsPage - INFO: Cannot click on the element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 03:41:32 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 03:41:33 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 03:41:33 PM - settingsPage - INFO: Element Found with locator: xEnTiIn and  locatorType: id
+04/27/2018 03:43:50 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 03:43:50 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 03:43:50 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 03:43:50 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 03:43:51 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 03:43:51 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 03:43:56 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 03:43:56 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 03:44:03 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 03:44:04 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 03:44:07 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 03:44:07 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 03:44:10 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 03:44:10 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 03:44:13 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 03:44:13 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 03:44:16 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 03:44:16 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 03:44:17 PM - settingsPage - INFO: Element Found with locator: xEnTiIn and  locatorType: id
+04/27/2018 03:45:40 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 03:45:40 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 03:45:40 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 03:45:40 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 03:45:41 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 03:45:41 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 03:45:46 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 03:45:46 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 03:45:54 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 03:45:54 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 03:45:57 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 03:45:57 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 03:46:00 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 03:46:00 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 03:46:03 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 03:46:03 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 03:46:06 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 03:46:07 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 03:46:07 PM - settingsPage - INFO: Element Found with locator: xEnTiIn and  locatorType: id
+04/27/2018 03:46:51 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 03:46:52 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 03:46:52 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 03:46:52 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 03:46:53 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 03:46:53 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 03:46:58 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 03:46:58 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 03:47:06 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 03:47:06 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 03:47:10 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 03:47:10 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 03:47:13 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 03:47:13 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 03:47:16 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 03:47:16 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 03:47:19 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 03:47:19 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 03:47:20 PM - settingsPage - INFO: Element Found with locator: xEnTiIn and  locatorType: id
+04/27/2018 04:49:32 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 04:49:32 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 04:49:32 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 04:49:32 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 04:49:33 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 04:49:33 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 04:49:38 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 04:49:38 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 04:49:45 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 04:49:45 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 04:49:48 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 04:49:48 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 04:49:51 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 04:49:51 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 04:49:54 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 04:49:54 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 04:49:58 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 04:49:58 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 04:50:03 PM - settingsPage - INFO: Element not found with locator: xEnTiIn and  locatorType: xpath
+04/27/2018 04:50:03 PM - settingsPage - INFO: Cannot click on the element with locator: xEnTiIn locatorType: xpath
+04/27/2018 04:51:38 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 04:51:39 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 04:51:39 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 04:51:39 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 04:51:39 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 04:51:40 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 04:51:45 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 04:51:45 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 04:51:54 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 04:51:54 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 04:51:57 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 04:51:57 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 04:52:00 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 04:52:00 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 04:52:03 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 04:52:04 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 04:52:07 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 04:52:07 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 04:52:07 PM - settingsPage - INFO: Element Found with locator: xStTiIn and  locatorType: id
+04/27/2018 04:52:07 PM - settingsPage - INFO: Clicked on element with locator: xStTiIn locatorType: id
+04/27/2018 04:52:43 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 04:52:43 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 04:52:43 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 04:52:43 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 04:52:43 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 04:52:44 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 04:52:49 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 04:52:49 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 04:52:56 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 04:52:56 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 04:52:59 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 04:52:59 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 04:53:03 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 04:53:03 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 04:53:06 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 04:53:06 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 04:53:09 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 04:53:09 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 04:53:09 PM - settingsPage - INFO: Element Found with locator: xStTiIn and  locatorType: id
+04/27/2018 04:53:09 PM - settingsPage - INFO: Clicked on element with locator: xStTiIn locatorType: id
+04/27/2018 04:55:25 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 04:55:25 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 04:55:25 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 04:55:25 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 04:55:26 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 04:55:26 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 04:55:31 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 04:55:31 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 04:55:39 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 04:55:39 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 04:55:42 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 04:55:43 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 04:55:46 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 04:55:46 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 04:55:49 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 04:55:49 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 04:55:52 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 04:55:52 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 04:55:52 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 04:58:15 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 04:58:15 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 04:58:15 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 04:58:15 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 04:58:15 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 04:58:16 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 04:58:21 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 04:58:21 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 04:58:28 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 04:58:28 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 04:58:31 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 04:58:31 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 04:58:35 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 04:58:35 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 04:58:38 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 04:58:38 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 04:58:41 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 04:58:41 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 04:58:41 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 04:58:41 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 04:59:11 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 04:59:11 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 04:59:11 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 04:59:11 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 04:59:12 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 04:59:12 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 04:59:17 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 04:59:17 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 04:59:25 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 04:59:25 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 04:59:28 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 04:59:29 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 04:59:32 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 04:59:32 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 04:59:35 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 04:59:35 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 04:59:38 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 04:59:38 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 04:59:38 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 04:59:39 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:00:08 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 05:00:08 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 05:00:08 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 05:00:08 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 05:00:09 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 05:00:09 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 05:00:14 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 05:00:14 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 05:00:22 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 05:00:22 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 05:00:25 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 05:00:25 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 05:00:28 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 05:00:28 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 05:00:31 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 05:00:31 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 05:00:35 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 05:00:35 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 05:00:35 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:00:35 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:24:11 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 05:24:12 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 05:24:12 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 05:24:12 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 05:24:12 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 05:24:13 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 05:24:18 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 05:24:18 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 05:24:25 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 05:24:25 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 05:24:28 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 05:24:28 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 05:24:31 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 05:24:31 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 05:24:34 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 05:24:34 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 05:24:42 PM - settingsPage - INFO: Element not found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:24:42 PM - settingsPage - INFO: Cannot send data on the element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:26:44 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 05:26:44 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 05:26:44 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 05:26:44 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 05:26:44 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 05:26:45 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 05:26:50 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 05:26:50 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 05:26:57 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 05:26:57 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 05:27:00 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 05:27:00 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 05:27:03 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 05:27:03 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 05:27:06 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 05:27:06 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 05:27:14 PM - settingsPage - INFO: Element not found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:27:14 PM - settingsPage - INFO: Cannot send data on the element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:27:19 PM - settingsPage - INFO: Element not found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:27:19 PM - settingsPage - INFO: Cannot send data on the element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:27:25 PM - settingsPage - INFO: Element not found with locator: xEnTiIn and  locatorType: id
+04/27/2018 05:27:25 PM - settingsPage - INFO: Cannot send data on the element with locator: xEnTiIn locatorType: id
+04/27/2018 05:27:30 PM - settingsPage - INFO: Element not found with locator: xEnTiIn and  locatorType: id
+04/27/2018 05:27:30 PM - settingsPage - INFO: Cannot send data on the element with locator: xEnTiIn locatorType: id
+04/27/2018 05:27:35 PM - settingsPage - INFO: Element not found with locator: .//*[@id='xTiIn'] and  locatorType: xpath
+04/27/2018 05:27:35 PM - settingsPage - INFO: Cannot click on the element with locator: .//*[@id='xTiIn'] locatorType: xpath
+04/27/2018 05:29:35 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 05:29:35 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 05:29:36 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 05:29:36 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 05:29:36 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 05:29:37 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 05:29:42 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 05:29:42 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 05:29:50 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 05:29:50 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 05:29:53 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 05:29:53 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 05:29:56 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 05:29:56 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 05:29:59 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 05:29:59 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 05:30:06 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 05:30:06 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 05:30:06 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:30:06 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:30:06 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:30:06 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:30:06 PM - settingsPage - INFO: Element Found with locator: xEnTiIn and  locatorType: id
+04/27/2018 05:30:06 PM - settingsPage - INFO: Sent data on element with locator: xEnTiIn locatorType: id
+04/27/2018 05:30:06 PM - settingsPage - INFO: Element Found with locator: xEnTiIn and  locatorType: id
+04/27/2018 05:30:06 PM - settingsPage - INFO: Sent data on element with locator: xEnTiIn locatorType: id
+04/27/2018 05:30:06 PM - settingsPage - INFO: Element Found with locator: .//*[@id='xTiIn'] and  locatorType: xpath
+04/27/2018 05:30:07 PM - settingsPage - INFO: Clicked on element with locator: .//*[@id='xTiIn'] locatorType: xpath
+04/27/2018 05:32:04 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 05:32:04 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 05:32:04 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 05:32:04 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 05:32:05 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 05:32:05 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 05:32:10 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 05:32:10 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 05:32:19 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 05:32:19 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 05:32:22 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 05:32:22 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 05:32:25 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 05:32:25 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 05:32:28 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 05:32:29 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 05:32:35 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 05:32:35 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 05:32:35 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:32:35 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:32:35 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:32:35 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:32:35 PM - settingsPage - INFO: Element Found with locator: //input[@id='xEnTiIn'] and  locatorType: xpath
+04/27/2018 05:32:36 PM - settingsPage - INFO: Sent data on element with locator: //input[@id='xEnTiIn'] locatorType: xpath
+04/27/2018 05:32:36 PM - settingsPage - INFO: Element Found with locator: //input[@id='xEnTiIn'] and  locatorType: xpath
+04/27/2018 05:32:36 PM - settingsPage - INFO: Sent data on element with locator: //input[@id='xEnTiIn'] locatorType: xpath
+04/27/2018 05:32:36 PM - settingsPage - INFO: Element Found with locator: .//*[@id='xTiIn'] and  locatorType: xpath
+04/27/2018 05:32:36 PM - settingsPage - INFO: Clicked on element with locator: .//*[@id='xTiIn'] locatorType: xpath
+04/27/2018 05:39:16 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 05:39:16 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 05:39:16 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 05:39:16 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 05:39:17 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 05:39:17 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 05:39:22 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 05:39:22 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 05:39:29 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 05:39:29 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 05:39:32 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 05:39:32 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 05:39:35 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 05:39:35 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 05:39:38 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 05:39:38 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 05:39:44 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Element Found with locator: //input[@id='xEnTiIn'] and  locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Sent data on element with locator: //input[@id='xEnTiIn'] locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Element Found with locator: //input[@id='xEnTiIn'] and  locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Sent data on element with locator: //input[@id='xEnTiIn'] locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Element Found with locator: .//*[@id='xTiIn'] and  locatorType: xpath
+04/27/2018 05:39:45 PM - settingsPage - INFO: Clicked on element with locator: .//*[@id='xTiIn'] locatorType: xpath
+04/27/2018 05:40:41 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 05:40:41 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 05:40:41 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 05:40:42 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 05:40:42 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 05:40:42 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 05:40:48 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 05:40:48 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 05:40:55 PM - settingsPage - INFO: Element Found with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span and  locatorType: xpath
+04/27/2018 05:40:55 PM - settingsPage - INFO: Clicked on element with locator: //header[@id='gb']/div[2]/div[2]/div[3]/div/div/div[3]/div/content/span locatorType: xpath
+04/27/2018 05:40:58 PM - settingsPage - INFO: Element Found with locator: html/body/div[20]/div/div/content[1]/div[2]/div and  locatorType: xpath
+04/27/2018 05:40:58 PM - settingsPage - INFO: Clicked on element with locator: html/body/div[20]/div/div/content[1]/div[2]/div locatorType: xpath
+04/27/2018 05:41:01 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] and  locatorType: xpath
+04/27/2018 05:41:01 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[1]/div[1]/div[2] locatorType: xpath
+04/27/2018 05:41:04 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content and  locatorType: xpath
+04/27/2018 05:41:04 PM - settingsPage - INFO: Clicked on element with locator: //*[@id='YPCqFe']/div/div/div/div[1]/div[3]/div/div/div[2]/div[2]/content locatorType: xpath
+04/27/2018 05:41:10 PM - settingsPage - INFO: Element Found with locator: //i[contains(@class,'Gw6Zhc')] and  locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Clicked on element with locator: //i[contains(@class,'Gw6Zhc')] locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Element Found with locator: //*[@id='xStTiIn'] and  locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Sent data on element with locator: //*[@id='xStTiIn'] locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Element Found with locator: //input[@id='xEnTiIn'] and  locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Sent data on element with locator: //input[@id='xEnTiIn'] locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Element Found with locator: //input[@id='xEnTiIn'] and  locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Sent data on element with locator: //input[@id='xEnTiIn'] locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Element Found with locator: .//*[@id='xTiIn'] and  locatorType: xpath
+04/27/2018 05:41:11 PM - settingsPage - INFO: Clicked on element with locator: .//*[@id='xTiIn'] locatorType: xpath
+04/27/2018 06:38:22 PM - loginPage - INFO: Element Found with locator: identifierId and  locatorType: id
+04/27/2018 06:38:23 PM - loginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+04/27/2018 06:38:23 PM - loginPage - INFO: Element Found with locator: identifierNext and  locatorType: id
+04/27/2018 06:38:23 PM - loginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+04/27/2018 06:38:23 PM - loginPage - INFO: Element Found with locator: //div[@id='password']/div[1]/div/div[1]/input and  locatorType: xpath
+04/27/2018 06:38:24 PM - loginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+04/27/2018 06:38:29 PM - loginPage - INFO: Element Found with locator: passwordNext and  locatorType: id
+04/27/2018 06:38:29 PM - loginPage - INFO: Clicked on element with locator: passwordNext locatorType: id
+04/27/2018 06:38:35 PM - settingsPage - INFO: Element Found with locator: //*[@id='YPCqFe']/div/div/div[1]/div[2]/div[1]/div/div[1]/h2/div[1] and  locatorType: xpath
